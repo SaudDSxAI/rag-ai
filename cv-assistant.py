@@ -16,9 +16,10 @@ What it does:
   and type `exit` when you’re done.
 
 How to use:
-1. Put your documents in the `data/` folder.
-2. Make sure your `.env` file has your `OPENAI_API_KEY`.
-3. Run the script with:
+1. Create a folder named `data/` in the same directory as this script.
+2. Add your CV and related documents (PDF, Word, or text files) to the
+3. Make sure your `.env` file has your `OPENAI_API_KEY`.
+4. Run the script with:
    ```bash
    python cv-assistant.py
 """
