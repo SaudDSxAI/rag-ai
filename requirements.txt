@@ -1,0 +1,17 @@
+# Environment and config
+python-dotenv
+
+# LangChain core
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+
+# Vector store
+faiss-cpu
+
+# Document loaders & processing
+pypdf
+tiktoken
+typing-extensions
